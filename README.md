@@ -27,7 +27,7 @@ Build a multi-agent AI system that helps founders plan their startups with a ref
 - Trusting AI output requires cross-checking sources, especially in market analysis.
 
 ## App Snippet 
-https://github.com/Chandu-2122/AI-Startup-Planner/blob/7071112cd16021eb5f7e7068618d2bde08ee2582/Screenshot%202025-09-17%20215630.png
+![image](https://github.com/Chandu-2122/AI-Startup-Planner/blob/7071112cd16021eb5f7e7068618d2bde08ee2582/Screenshot%202025-09-17%20215630.png)
 
 
 ## Future Improvements
